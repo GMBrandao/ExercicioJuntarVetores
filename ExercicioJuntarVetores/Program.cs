@@ -36,8 +36,6 @@ void ordenaVetor(double[] vetor)
             }
         }
     }
-
-  //  return vetor;
 }
 
 double[] inserirVetor(double[] insereA, double[] insereB)
